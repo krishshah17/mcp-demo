@@ -1,0 +1,12 @@
+TODO: GitHub MCP Server Capabilities
+
+1. List all open issues in a repository
+2. Assign issues to users
+3. Create, update, and close issues
+4. Create and manage pull requests
+5. Review and comment on pull requests
+6. Manage repository notifications
+7. Search for issues and pull requests
+8. Automate workflows with GitHub Actions
+9. Manage repository secrets and settings
+10. Integrate with external tools and APIs
