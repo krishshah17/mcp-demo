@@ -8,5 +8,4 @@ TODO: GitHub MCP Server Capabilities
 6. Manage repository notifications
 7. Search for issues and pull requests
 8. Automate workflows with GitHub Actions
-9. Manage repository secrets and settings
 10. Integrate with external tools and APIs
